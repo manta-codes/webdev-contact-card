@@ -1,3 +1,7 @@
+## Preview of my Submission:
+
+<img src="https://i.imgur.com/digDsx7.gif" width="50%">
+
 # Contact Card Assignment
 
 The purpose of this challenge is to create a responsive contact card using flexbox and/or grid. The card can be for you personally or for a fictitious character. In the previous exercises you were provided code to focus on semantic HTML, Flexbox, and Grid. In this exercise, it will be up to you to build the project.
